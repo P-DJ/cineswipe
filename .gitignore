@@ -1,0 +1,5 @@
+.DS_Store
+
+# Xcode per-user state and local schemes may contain machine-specific values.
+xcuserdata/
+*.xcuserstate
